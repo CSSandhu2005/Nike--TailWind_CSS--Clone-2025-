@@ -1,6 +1,6 @@
 import { products } from "../constants";
 import React from "react";
-import PopularProductsCard from "../components/PopularProductscard"; 
+import PopularProductsCard from "../components/PopularProductsCard"; 
 
 const PopularProducts = () => {
   return (
